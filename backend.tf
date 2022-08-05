@@ -3,8 +3,8 @@
     bucket = "code-sharing-bucket"
     key    = "dac.tfstate"
     region = "us-east-1"
-    profile = "jespo"
-dynamodb_table= "firstprojecttable"
+    profile = "ndowahcollins"
+dynamodb_table= "terraform-dynamo-locks"
    }
  }
 
